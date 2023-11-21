@@ -1,0 +1,2 @@
+1,Wheat,30
+2,Carrot,25
